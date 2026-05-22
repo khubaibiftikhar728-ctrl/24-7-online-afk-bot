@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 220,
       "messages": [
         "I'm a bot cdr_Sacha maded me",
         "We Need To Grow This Promote This Smp",
