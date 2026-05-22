@@ -28,12 +28,12 @@
     },
     "chat-messages": {
       "enabled": false,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 220,
       "messages": [
-        "I'm a bot cdr_Sacha maded me",
-        "We Need To Grow This Promote This Smp",
-        "Play In Lazed Smp The New 24/7 Online Smp"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
