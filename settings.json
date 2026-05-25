@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LazedSmp.aternos.me
-",
+    "ip": "LazedSmp.aternos.me",
     "port":50419 ,
     "version": "1.21.11",
     "try-creative": false
